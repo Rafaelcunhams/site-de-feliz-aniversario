@@ -10,7 +10,8 @@ Mesmo sendo um projeto pessoal, ele também serviu como prática para reforçar 
 
 ## 🖼️ Preview do Projeto
 
-<img width="1895" height="1004" alt="Captura de tela 2025-11-12 170233" src="https://github.com/user-attachments/assets/a6b8dd64-e1c6-4d9c-89f8-b79afa565b25" />
+<img width="1895" height="1004" alt="Captura de tela 2025-11-12 170233" src="https://github.com/user-attachments/assets/1c27eefc-1d4b-4008-9788-0a90ccb5ce15" />
+
 
 ---
 
